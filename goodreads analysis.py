@@ -6,5 +6,5 @@ with open(file_name, 'r', encoding="utf8") as f:
     json_data = json.load(f)
 
 #check data type
-print(type((json_data)))
+print(type(json_data))
 

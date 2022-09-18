@@ -1,5 +1,5 @@
 [
-{"user_name":"Wysteria ","origin":"mobile__/ios/shelf_picker_view/from_book_page","book_page":0,"created_at":"2016-12-31 16:51:01","book_name":"Harry Potter and the Cursed Child: Parts One and Two"}
+{"user_name":"Wysteria ","origin":"mobile__/ios/shelf_picker_view/from_book_page","created_at":"2016-12-31 16:51:01","book_name":"Harry Potter and the Cursed Child: Parts One and Two"}
 {"user_name":"Wysteria ","origin":"mobile__/ios/search_both_from_search_page/book_view/from_book_page","book_page":0,"created_at":"2021-04-19 18:35:50","book_name":"Tales From the Hinterland"}
 {"user_name":"Wysteria ","origin":"mobile__/ios/search_both_from_search_page/book_view/from_book_page","book_page":0,"created_at":"2021-07-21 18:53:39","book_name":"Black Hawk Down: A Story of Modern War"}
 {"user_name":"Wysteria ","origin":"mobile__/ios/search_both_from_search_page/book_view/from_book_page","book_page":0,"created_at":"2021-08-17 13:10:15","book_name":"The World Until Yesterday: What Can We Learn from Traditional Societies?"}
@@ -3082,3 +3082,5 @@
 {"user_name":"Wysteria ","origin":"mobile__/ios/from_book_page_series","book_page":0,"created_at":"2020-10-08 16:19:33","book_name":"Siege and Storm"}
 {"user_name":"Wysteria ","origin":"mobile__/ios/myBooks_view/book_view/from_book_page","book_page":0,"created_at":"2021-08-10 18:14:46","book_name":"海辺のカフカ [Umibe no Kafuka]"}
 ]
+
+
