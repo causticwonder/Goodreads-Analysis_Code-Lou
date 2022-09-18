@@ -1,7 +1,10 @@
 import json
 
+file_name = 'data/track_book_origins.json'
 #open json data into read mode - first key is userdata and will throw an error code otherwise
-with open(r'C:\Users\dange\Desktop\Goodreads-Analysis_Code-Lou\track_book_origins.json') as f:
-    posts_json = json.load(f)
+with open(file_name, 'r', encoding="utf8") as f:
+    json_data = json.load(f)
 
-type(posts_json)
+#check data type
+print(type((json_data)))
+
