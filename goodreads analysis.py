@@ -1,4 +1,7 @@
 import json
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
 
 #open json data into read mode - first key is userdata and will throw an error code otherwise
 with open('data/track_book_origins_edit.json', 'r') as json_file:
@@ -16,3 +19,5 @@ with open('data/activity_edit.json', 'r') as f:
 print(type(json_data_activity))
 
 print(len(json_data_activity))
+
+
